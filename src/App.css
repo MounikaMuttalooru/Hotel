@@ -108,6 +108,8 @@
   border-radius: 6px;
   border: none;
   cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
 }
 
 .btn.primary { background: #1976d2; color: #fff }
